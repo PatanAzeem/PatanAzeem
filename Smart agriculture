@@ -1,0 +1,19 @@
+smart-agriculture/
+│
+├── backend/         # Flask backend code
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── pest_prediction_model.pkl
+│   └── README.md
+│
+├── frontend/        # React frontend code
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+│
+├── iot/             # IoT sensor code
+│   ├── esp32_code.py
+│   └── README.md
+│
+└── README.md        # Project overview
